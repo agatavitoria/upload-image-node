@@ -1,6 +1,6 @@
 # Upload Image
 
-Upload de imagens feito com Node.js
+Upload de imagens com Node.js
 
 ## Autores
 
